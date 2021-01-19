@@ -1,0 +1,12 @@
+{
+  "name": "dsa-bst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/BinarySearchTree_test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
